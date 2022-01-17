@@ -15,3 +15,5 @@ $ git clone https://github.com/knightster0804/Society-Visitor-Info-Management-Sy
 ```
 $ run proj.py
 ```
+<br>
+Also check if the corresponding modules are installed in your pc.
